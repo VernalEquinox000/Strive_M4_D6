@@ -6,7 +6,7 @@ import Instagram from "../footer/ig.png";
 import Twitter from "../footer/twitter.png";
 import Youtube from "../footer/yt.png";
 import CC from "../footer/cc.png";
-
+//dhsdhskhfkdhfkshdkfsh
 export default class Footer extends Component {
   render() {
     return (
